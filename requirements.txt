@@ -1,7 +1,2 @@
-numpy
-pandas
-efficient-apriori
-scipy
 scikit-learn
 xgboost
-matplotlib
